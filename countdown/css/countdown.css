@@ -1,0 +1,64 @@
+
+body {
+    /*setup html and body to take 100% of the view port*/
+    height: 100%;
+    background-image: url("img/f4.jpg");
+    color: white;
+  }
+  
+  #header {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 80px;
+    color: rgb(255, 197, 197);
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+    
+  }
+  
+  #expert{
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+    margin:50px;
+    width:500px;
+    height: 500px;
+    padding: 15px;
+    border: 20px groove rgb(98, 98, 230);
+    border-radius: 10px;
+    text-align: center;
+    color: rgb(255, 197, 197);
+  }
+  
+  #table{
+    width:30px;
+  
+  }
+  
+  footer{
+    position:relative;
+    left: 0;
+    bottom: 0;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(60, 96, 255);
+    color: white;
+    text-align: center;
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+    height: 200%; 
+    color: rgb(255, 197, 197); 
+  
+  }
+  
+  #countdownPlaceholder{
+    border: 20px groove rgb(98, 98, 230);
+    text-align: center;
+    font-size: 300%;
+    margin:50px;
+    width:800px;
+    height: 200%;
+    color: rgb(255, 197, 197);
+    font-family: "Avantgarde", "TeX Gyre Adventor", "URW Gothic L", sans-serif;
+  }
+  
+  #head{
+    font-size: 400%;
+    
+  } 
